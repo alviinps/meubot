@@ -110,7 +110,7 @@ const help = (prefix) => {
 ╔════════════════════
   FEITO POR *ALVIINPS*
   DUVIDAS? 👇
-  WA.me/5571842740165
+  WA.me/557184274015
 ╚════════════════════`
 }
 
